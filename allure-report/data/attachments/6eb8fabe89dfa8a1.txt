@@ -1,0 +1,3 @@
+URL: https://practice.bpbonline.com/
+EMAIL: qwerty2@yahoo.com
+PASSWORD: qwerty

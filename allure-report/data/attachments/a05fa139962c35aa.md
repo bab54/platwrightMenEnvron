@@ -1,0 +1,154 @@
+# Page snapshot
+
+```yaml
+- link "BPB Online":
+  - /url: https://practice.bpbonline.com/index.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - img "BPB Online"
+- button "Cart Contents"
+- button "Checkout"
+- button "My Account"
+- link "Top":
+  - /url: https://practice.bpbonline.com
+- text: »
+- link "Catalog":
+  - /url: https://practice.bpbonline.com/index.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- text: »
+- link "Login":
+  - /url: https://practice.bpbonline.com/login.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- heading "Welcome, Please Sign In" [level=1]
+- heading "New Customer" [level=2]
+- paragraph: I am a new customer.
+- paragraph: By creating an account at BPB Online you will be able to shop faster, be up to date on an orders status, and keep track of the orders you have previously made.
+- paragraph:
+  - button "Continue"
+- heading "Returning Customer" [level=2]
+- paragraph: I am a returning customer.
+- table:
+  - rowgroup:
+    - row "E-Mail Address:":
+      - cell "E-Mail Address:"
+      - cell:
+        - textbox
+    - row "Password:":
+      - cell "Password:"
+      - cell:
+        - textbox
+- paragraph:
+  - link "Password forgotten? Click here.":
+    - /url: https://practice.bpbonline.com/password_forgotten.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- paragraph:
+  - button "Sign In"
+- text: Categories
+- link "Hardware->":
+  - /url: https://practice.bpbonline.com/index.php?cPath=1&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- text: (6)
+- link "Software->":
+  - /url: https://practice.bpbonline.com/index.php?cPath=2&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- text: (4)
+- link "DVD Movies->":
+  - /url: https://practice.bpbonline.com/index.php?cPath=3&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- text: (17)
+- link "Gadgets":
+  - /url: https://practice.bpbonline.com/index.php?cPath=21&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- text: (1) Manufacturers
+- combobox:
+  - option "Please Select" [selected]
+  - option "Canon"
+  - option "Fox"
+  - option "GT Interactive"
+  - option "Hewlett Packard"
+  - option "Logitech"
+  - option "Matrox"
+  - option "Microsoft"
+  - option "Samsung"
+  - option "Sierra"
+  - option "Warner"
+- text: Quick Find
+- textbox
+- button "Quick Find"
+- text: Use keywords to find the product you are looking for.
+- link "Advanced Search":
+  - /url: https://practice.bpbonline.com/advanced_search.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - strong: Advanced Search
+- link "What's New?":
+  - /url: https://practice.bpbonline.com/products_new.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- link "Microsoft IntelliMouse Explorer":
+  - /url: https://practice.bpbonline.com/product_info.php?products_id=26&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - img "Microsoft IntelliMouse Explorer"
+- link "Microsoft IntelliMouse Explorer":
+  - /url: https://practice.bpbonline.com/product_info.php?products_id=26&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- text: $64.95 Information
+- link "Shipping & Returns":
+  - /url: https://practice.bpbonline.com/shipping.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- link "Privacy Notice":
+  - /url: https://practice.bpbonline.com/privacy.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- link "Conditions of Use":
+  - /url: https://practice.bpbonline.com/conditions.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- link "Contact Us":
+  - /url: https://practice.bpbonline.com/contact_us.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- link "Shopping Cart":
+  - /url: https://practice.bpbonline.com/shopping_cart.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- text: 0 items Bestsellers
+- list:
+  - listitem:
+    - link "Courage Under Fire":
+      - /url: https://practice.bpbonline.com/product_info.php?products_id=16&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - listitem:
+    - link "Samsung Galaxy Tab":
+      - /url: https://practice.bpbonline.com/product_info.php?products_id=28&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - listitem:
+    - link "Matrox G200 MMS":
+      - /url: https://practice.bpbonline.com/product_info.php?products_id=1&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - listitem:
+    - link "Unreal Tournament":
+      - /url: https://practice.bpbonline.com/product_info.php?products_id=22&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - listitem:
+    - link "Microsoft IntelliMouse Explorer":
+      - /url: https://practice.bpbonline.com/product_info.php?products_id=26&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - listitem:
+    - link "Die Hard With A Vengeance":
+      - /url: https://practice.bpbonline.com/product_info.php?products_id=12&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - listitem:
+    - link "Microsoft Internet Keyboard PS/2":
+      - /url: https://practice.bpbonline.com/product_info.php?products_id=25&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - listitem:
+    - link "Hewlett Packard LaserJet 1100Xi":
+      - /url: https://practice.bpbonline.com/product_info.php?products_id=27&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - listitem:
+    - link "Blade Runner - Director's Cut":
+      - /url: https://practice.bpbonline.com/product_info.php?products_id=5&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - listitem:
+    - 'link "SWAT 3: Close Quarters Battle"':
+      - /url: https://practice.bpbonline.com/product_info.php?products_id=21&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- link "Specials":
+  - /url: https://practice.bpbonline.com/specials.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- link "Courage Under Fire":
+  - /url: https://practice.bpbonline.com/product_info.php?products_id=16&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - img "Courage Under Fire"
+- link "Courage Under Fire":
+  - /url: https://practice.bpbonline.com/product_info.php?products_id=16&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- deletion: $38.99
+- text: $29.99
+- link "Reviews":
+  - /url: https://practice.bpbonline.com/reviews.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- link "There's Something About Mary":
+  - /url: https://practice.bpbonline.com/product_reviews_info.php?products_id=19&reviews_id=1&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - img "There's Something About Mary"
+- link "This has to be one of the funniest movies released for 1999! ..":
+  - /url: https://practice.bpbonline.com/product_reviews_info.php?products_id=19&reviews_id=1&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+- img "5 of 5 Stars!"
+- text: Currencies
+- combobox:
+  - option "U.S. Dollar" [selected]
+  - option "Euro"
+- paragraph:
+  - text: Copyright © 2025
+  - link "BPB Online":
+    - /url: https://practice.bpbonline.com/index.php?osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - text: Powered by
+  - link "osCommerce":
+    - /url: http://www.oscommerce.com
+- link "osCommerce":
+  - /url: https://practice.bpbonline.com/redirect.php?action=banner&goto=1&osCsid=8bfb29e7cf207f1643adb8e9b5412841
+  - img "osCommerce"
+```

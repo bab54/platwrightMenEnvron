@@ -1,4 +1,4 @@
-@only
+
 Feature: Enviroment Login
 
     To be able to login as qa, pro or dev
